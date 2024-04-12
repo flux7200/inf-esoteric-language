@@ -14,11 +14,17 @@ or maybe even C. The code for every release will always be available online. I'm
 some point within the development process, and if not, then even more.
 
 Arithmetic
+
 Networking
+
 Static Memory
+
 Dynamic Memory
+
 If Statements & Loops
+
 File Management
+
 OpenGL Support
 
 For any questions, reach me at: flux7200@gmail.com

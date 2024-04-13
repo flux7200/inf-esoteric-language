@@ -29,4 +29,6 @@ Console Output [DONE]
 
 Console Input
 
+Stack Manipulation
+
 For any questions, reach me at: flux7200@gmail.com

@@ -1,0 +1,4 @@
+FFFFFFFF % 1 / store 8 in cell 0
+IIIIF % 5 / store 8 in cell 1
+IIIIIIIIF % 13 / store 64 in cell 0
+IIIIIIIIF % 21 / print 64 to console

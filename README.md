@@ -13,18 +13,13 @@ languages to exist. The first ever implementation I will make will be in Python.
 or maybe even C. The code for every release will always be available online. I'm hoping to add the following things at
 some point within the development process, and if not, then even more.
 
-Arithmetic
-
+Arithmetic [DONE]
 Networking
-
-Static Memory
-
-Dynamic Memory
-
+Dynamic Memory [DONE]
 If Statements & Loops
-
 File Management
-
 OpenGL Support
+Console Output [DONE]
+Console Input
 
 For any questions, reach me at: flux7200@gmail.com

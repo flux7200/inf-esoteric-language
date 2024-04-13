@@ -31,4 +31,6 @@ Console Input
 
 Stack Manipulation
 
+Subroutines
+
 For any questions, reach me at: flux7200@gmail.com
